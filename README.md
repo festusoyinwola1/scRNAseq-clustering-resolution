@@ -11,12 +11,12 @@ How does Leiden clustering resolution affect the number of inferred cell types a
 
 ## Data
 - **Source:** Public Scanpy tutorial dataset (AnnData example)
-- **Format:** Processed `.h5ad` count matrix
+- **Format:** Processed .h5ad count matrix
 - **Size:** ~3,000–5,000 cells with several thousand genes
 - **Preprocessing:** QC, normalization, log-transform, PCA, and kNN graph included in the dataset
 
 ## Methods
-- Load `.h5ad` dataset using Scanpy
+- Load .h5ad dataset using Scanpy
 - Confirm preprocessing steps (PCA, neighbors)
 - Perform Leiden clustering at **0.2**, **0.5**, and **2.0**
 - Generate UMAP visualizations for each resolution
@@ -43,9 +43,9 @@ scRNAseq-clustering-resolution/
 - **Week 3:** Identify marker genes; evaluate classifier; build figures; finalize report and GitHub repo
 
 ## Reproducibility
-- All analysis steps will be documented in Jupyter notebooks under `/notebooks`
+- All analysis steps will be documented in Jupyter notebooks under /notebooks
 - Instructions and project description provided in this README.md
 - Repository includes all required components for transparency and reproducibility
 
 ## AI Use
-See `ai_usage.md` for documentation of ChatGPT/Gemini usage, verification steps, and transparency notes.
+See ai_usage.md for documentation of ChatGPT/Gemini usage, verification steps, and transparency notes.
