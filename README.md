@@ -48,4 +48,4 @@ scRNAseq-clustering-resolution/
 - Repository includes all required components for transparency and reproducibility
 
 ## AI Use
-See 'ai_usage.md' for documentation of ChatGPT/Gemini usage, verification steps, and transparency notes.
+See *ai_usage.md* for documentation of ChatGPT/Gemini usage, verification steps, and transparency notes.
