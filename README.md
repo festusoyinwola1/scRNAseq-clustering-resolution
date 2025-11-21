@@ -26,16 +26,16 @@ How does Leiden clustering resolution affect the number of inferred cell types a
 
 ## Repository Structure
 scRNAseq-clustering-resolution/
-├── notebooks/
-│ └── placeholder.txt
-├── data/
-│ └── placeholder.txt
-├── figures/
-│ └── placeholder.txt
-├── scripts/
-│ └── placeholder.txt
-├── ai_usage.md
-└── README.md
+── notebooks/
+── placeholder.txt
+── data/
+── placeholder.txt
+── figures/
+── placeholder.txt
+── scripts/
+── placeholder.txt
+── ai_usage.md
+── README.md
 
 ## Timeline (Draft)
 - **Week 1:** Baseline workflow tested; data loaded; PCA and neighbors validated (completed)
