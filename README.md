@@ -53,3 +53,6 @@ scRNAseq-clustering-resolution/
 
 ## AI Use
 See ***ai_usage.md*** for documentation of ChatGPT/Gemini usage, verification steps, and transparency notes.
+
+
+# Note: GitHub may not render the notebook preview correctly. To view and run the analysis, download notebooks/FinalProject.ipynb and open it in Google Colab.
