@@ -26,20 +26,20 @@ How does Leiden clustering resolution affect the number of inferred cell types a
 
 # Repository Structure
 scRNAseq-clustering-resolution/
-── notebooks/
-── Finalproject.ipynb
-── data/
-── cluster_counts_by_resolution.csv
-── cluster_separability_scores.csv
-── marker_genes_leiden_0.5.csv
-── figures/
-── umap_leiden_0.2.png
-── umap_leiden_0.5.png
-── umap_leiden_2.0.png
-── scripts/
-── placeholder.txt
-── ai_usage.md
-── README.md
+- # data/
+- cluster_counts_by_resolution.csv
+- cluster_separability_scores.csv
+- marker_genes_leiden_0.5.csv
+- # figures/
+- umap_leiden_0.2.png
+- umap_leiden_0.5.png
+- umap_leiden_2.0.png
+- # notebooks/
+- Finalproject.ipynb
+- # README.md
+- # ai_usage.md
+- # scripts/
+- placeholder.txt
 
 ## Timeline (Draft)
 - **Week 1:** Baseline workflow tested; data loaded; PCA and neighbors validated (completed)
